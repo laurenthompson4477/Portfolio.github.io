@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-About Me
-======
 
 This will be an intro into who I am
 
