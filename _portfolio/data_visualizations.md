@@ -4,7 +4,7 @@ excerpt: "Using various data sources create visualizations to showcase the data.
 collection: portfolio
 ---
 
-**GitHub Link:** [Data Visualizations](https://github.com/laurenthompson4477/laurenthompson4477.github.io/tree/main/Visualizations)
+**GitHub Link:** [Data Visualizations](https://github.com/laurenthompson4477/laurenthompson4477/tree/main/Visualizations)
 
 **Language:** Python
 
