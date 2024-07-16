@@ -4,7 +4,7 @@ excerpt: "With the provided dataset preform an exploratory data analysis and mod
 collection: portfolio
 ---
 
-**GitHub Link**: [Predictive Housing Price Variables](https://github.com/laurenthompson4477/laurenthompson4477.github.io/tree/main/Housing_Price_Predictive)
+**GitHub Link**: [Predictive Housing Price Variables](https://github.com/laurenthompson4477/laurenthompson4477/blob/main/Housing_Price_Predictive/Predictive_Housing_Price_Variables.ipynb)
 
 **Language**: Python
 
