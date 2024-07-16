@@ -13,31 +13,31 @@ Motivated Data Scientists with a desire to seek a challenging work opportunity a
 
 Education
 ======
-* M.S. in Data Science, Bellevue University, 2024
-* B.S. in Computer Science with Mathematics Minor, Hood College, 2021
+M.S. in Data Science, Bellevue University, 2024 <br>
+B.S. in Computer Science with Mathematics Minor, Hood College, 2021
 
 
 Work experience
 ======
 **HR Data and Evaluations (2022 - current)** <br>
   * Duties include:<br>
-  &ensp; Obtain and analyze data producing graphics fitting customer's request.<br>
-  &ensp; Analyze HR records of employee attrition and retention modeling future behavior.<br>
-  &ensp; Create calculations to measure departments overall performance.<br>
-  &ensp; Optimizing and maintaining previous data requests. 
+  &ensp;&ensp;&ensp; Obtain and analyze data producing graphics fitting customer's request.<br>
+  &ensp;&ensp;&ensp;Analyze HR records of employee attrition and retention modeling future behavior.<br>
+  &ensp;&ensp;&ensp;Create calculations to measure departments overall performance.<br>
+  &ensp;&ensp;&ensp;Optimizing and maintaining previous data requests. 
 
 **Mobile Application Team (2022)** <br>
   * Duties include: <br>
-  &ensp; Full stack development and maintenance of mobile application tools.
+  &ensp;&ensp;&ensp;Full stack development and maintenance of mobile application tools.
 
 **Maryland Center of Computing Education Grant (MCCE Grant) (2019)** <br>
   * Duties included:<br>
-    &ensp; Adept technical competency demonstrated in learning different robotic operating systems and Interfaces.<br>
-    &ensp; Team Skills utilized while assisting Teachers in their exposure to and curriculum adaptation of robotics through workshops.
+    &ensp;&ensp;&ensp;Adept technical competency demonstrated in learning different robotic operating systems and Interfaces.<br>
+    &ensp;&ensp;&ensp;Team Skills utilized while assisting Teachers in their exposure to and curriculum adaptation of robotics through workshops.
 
 **Securitas Critical Infrastructure Service (SCIS) (2018-2019)** <br>
   * Duties included:<br>
-    &ensp; Surveillance and detection of potential threats.
+    &ensp;&ensp;&ensp;Surveillance and detection of potential threats.
 
   
 Languages
