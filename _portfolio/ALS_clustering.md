@@ -4,7 +4,7 @@ excerpt: "The goal of this project is to remove any data that is not relevant to
 collection: portfolio
 ---
 
-**GitHub Link:** [ALS Clustering](https://github.com/laurenthompson4477/laurenthompson4477.github.io/tree/main/ALS_Clusters)
+**GitHub Link:** [ALS Clustering](https://github.com/laurenthompson4477/laurenthompson4477/blob/main/ALS_Clusters/ALS_Clustering.ipynb)
 
 **Language:** Python
 
