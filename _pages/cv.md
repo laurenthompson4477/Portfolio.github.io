@@ -19,23 +19,23 @@ B.S. in Computer Science with Mathematics Minor, Hood College, 2021
 
 Work experience
 ======
-**HR Data and Evaluations (2022 - current)** <br>
+**HR Data and Evaluations (2022 - current)**
   * Duties include:<br>
   &ensp;&ensp;&ensp; Obtain and analyze data producing graphics fitting customer's request.<br>
   &ensp;&ensp;&ensp;Analyze HR records of employee attrition and retention modeling future behavior.<br>
   &ensp;&ensp;&ensp;Create calculations to measure departments overall performance.<br>
   &ensp;&ensp;&ensp;Optimizing and maintaining previous data requests. 
 
-**Mobile Application Team (2022)** <br>
+**Mobile Application Team (2022)**
   * Duties include: <br>
   &ensp;&ensp;&ensp;Full stack development and maintenance of mobile application tools.
 
-**Maryland Center of Computing Education Grant (MCCE Grant) (2019)** <br>
+**Maryland Center of Computing Education Grant (MCCE Grant) (2019)**
   * Duties included:<br>
     &ensp;&ensp;&ensp;Adept technical competency demonstrated in learning different robotic operating systems and Interfaces.<br>
     &ensp;&ensp;&ensp;Team Skills utilized while assisting Teachers in their exposure to and curriculum adaptation of robotics through workshops.
 
-**Securitas Critical Infrastructure Service (SCIS) (2018-2019)** <br>
+**Securitas Critical Infrastructure Service (SCIS) (2018-2019)**
   * Duties included:<br>
     &ensp;&ensp;&ensp;Surveillance and detection of potential threats.
 
