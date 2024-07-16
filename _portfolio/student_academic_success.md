@@ -4,7 +4,7 @@ excerpt: "The purpose of this project, “Predictive student academic success”
 collection: portfolio
 ---
 
-**GitHub Link:** [Student Academic Success](https://github.com/laurenthompson4477/laurenthompson4477.github.io/tree/main/Student_Academic_Success)
+**GitHub Link:** [Student Academic Success](https://github.com/laurenthompson4477/laurenthompson4477/blob/main/Student_Academic_Success/Predictive_Student_Academic_Success.ipynb)
 
 **Language:** Python
 
