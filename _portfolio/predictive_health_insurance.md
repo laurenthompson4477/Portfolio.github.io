@@ -4,7 +4,7 @@ excerpt: "Health insurance is a contract that requires your health insurer to pa
 collection: portfolio
 ---
 
-**GitHub Link**: [Predictive Health Insurance Cost](https://github.com/laurenthompson4477/laurenthompson4477.github.io/tree/main/Health_Insurance_Predictive)
+**GitHub Link**: [Predictive Health Insurance Cost](https://github.com/laurenthompson4477/laurenthompson4477/blob/main/Health_Insurance_Predictive/Predictive_Health_Insurance_Cost.ipynb)
 
 **Language**: Python
 
