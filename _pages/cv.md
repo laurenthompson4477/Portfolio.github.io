@@ -42,12 +42,12 @@ Work experience
   
 Languages
 ======
-* Python<br>
-  &ensp; Pandas<br>
-  &ensp; NumPy<br>
-  &ensp; Plotly<br>
-* SQL
-* Java
+**Python**<br>
+  &ensp;&ensp;&ensp;Pandas<br>
+  &ensp;&ensp;&ensp;NumPy<br>
+  &ensp;&ensp;&ensp;Plotly<br>
+**SQL** <br>
+**Java**
 
 
 Skills
