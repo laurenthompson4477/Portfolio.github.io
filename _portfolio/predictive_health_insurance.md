@@ -19,7 +19,7 @@ collection: portfolio
 Health insurance is a contract that requires your health insurer to pay some, or all of your health care costs in exchange for a premium. The insurance company asks the individual for personal information such as location, gender, health habits, etc. to gain information to determine what plan is available for purchase. For this project the dataset includes the age, sex, BMI, number of children, smoker, region, and charges for individuals who have health insurance. The objective of this project is to see what variables are most likely to influence the charges. The charges variable is the target. A linear regression model will be used to predict the medical charges based on the features age, sex, BMI. children, smoker, and region.
 
 **Files Needed**:<br>
-	&ensp;&ensp;&ensp;Predictive_Health_Insurance_Cost.ipynb
+	&ensp;&ensp;&ensp;Predictive_Health_Insurance_Cost.ipynb<br>
 	&ensp;&ensp;&ensp;Insurance.csv
 
 
