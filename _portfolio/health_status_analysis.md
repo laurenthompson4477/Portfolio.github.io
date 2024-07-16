@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-**GitHub Link**: [Health Status Analysis](https://github.com/laurenthompson4477/laurenthompson4477.github.io/blob/main/Health_Status/Health_Status_Analysis.Rmd)
+**GitHub Link**: [Health Status Analysis](https://github.com/laurenthompson4477/laurenthompson4477/tree/main/Health_Status)
 
 **Language**: R
 
