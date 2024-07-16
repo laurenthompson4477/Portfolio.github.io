@@ -19,21 +19,23 @@ Education
 
 Work experience
 ======
-* HR Data and Evaluations (2022 - current)<br>
+**HR Data and Evaluations (2022 - current)** <br>
   * Duties include:<br>
   &ensp; Obtain and analyze data producing graphics fitting customer's request.<br>
   &ensp; Analyze HR records of employee attrition and retention modeling future behavior.<br>
   &ensp; Create calculations to measure departments overall performance.<br>
-  &ensp; Optimizing and maintaining previous data requests. <br>
-* Mobile Application Team (2022)<br>
+  &ensp; Optimizing and maintaining previous data requests. 
+
+**Mobile Application Team (2022)** <br>
   * Duties include: <br>
   &ensp; Full stack development and maintenance of mobile application tools.
-* Maryland Center of Computing Education Grant (MCCE Grant) (2019) 
-  * Duties included:<br>
-    &ensp; Adept technical competency demonstrated in learning three different Robotic Operating Systems and Programming Interfaces.<br>
-    &ensp; Team Skills utilized while assisting area Teachers in their exposure to and curriculum adaptation of robotics over the course of four workshops.
 
-* Securitas Critical Infrastructure Service (SCIS) (2018-2019)<br>
+**Maryland Center of Computing Education Grant (MCCE Grant) (2019)** <br>
+  * Duties included:<br>
+    &ensp; Adept technical competency demonstrated in learning different robotic operating systems and Interfaces.<br>
+    &ensp; Team Skills utilized while assisting Teachers in their exposure to and curriculum adaptation of robotics through workshops.
+
+**Securitas Critical Infrastructure Service (SCIS) (2018-2019)** <br>
   * Duties included:<br>
     &ensp; Surveillance and detection of potential threats.
 
