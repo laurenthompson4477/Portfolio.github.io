@@ -4,7 +4,7 @@ excerpt: "When a patient is diagnosed with depression of any level the next step
 collection: portfolio
 ---
 
-**GitHub Link:** [Predictive Depression Level](https://github.com/laurenthompson4477/laurenthompson4477.github.io/tree/main/Depression_Level_Prediction)
+**GitHub Link:** [Predictive Depression Level](https://github.com/laurenthompson4477/laurenthompson4477/blob/main/Depression_Level_Prediction/Predictive_Depression_Levels.ipynb)
 
 **Language:** Python
 
