@@ -4,7 +4,7 @@ excerpt: "This project uses the small MovieLens data set to create a recommender
 collection: portfolio
 ---
 
-**Github Link**: [Movie Recommender System](https://github.com/laurenthompson4477/laurenthompson4477.github.io/tree/main/Movie_Recommender_System)
+**Github Link**: [Movie Recommender System](https://github.com/laurenthompson4477/laurenthompson4477/blob/main/Movie_Recommender_System/Movie_Recommender_System.ipynb)
 
 **Language**: Python
 **Libraires used**: <br>
