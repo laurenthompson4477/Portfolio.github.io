@@ -1,10 +1,10 @@
 ---
-title: "Predictive Attrition Analysis"
+title: "Predictive Employee Attrition"
 excerpt: "The goal of this project is to identify work related variables that can be used to predict an employee’s attrition in hopes to create a healthy work environment to improve overall retention and lower the avoidable attrition rates of companies. The model used to analysis the variables leading to attrition is Tuned Random Forest. "
 collection: portfolio
 ---
 
-**GitHub Link:** [Predictive Attrition Analysis](https://github.com/laurenthompson4477/laurenthompson4477.github.io/tree/main/Employee_Attrition_Predictive)
+**GitHub Link:** [Predictive Attrition Analysis](https://github.com/laurenthompson4477/laurenthompson4477/blob/main/Employee_Attrition_Predictive/Predictive_Attrition_Analysis.ipynb)
 
 **Language:** Python
 
