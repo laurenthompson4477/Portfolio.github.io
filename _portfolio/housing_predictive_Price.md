@@ -6,8 +6,7 @@ collection: portfolio
 
 GitHub Link: [Predictive Housing Price Variables](https://github.com/laurenthompson4477/laurenthompson4477.github.io/tree/main/Housing_Price_Predictive)
 
-Language: <br>
-&ensp;&ensp;Python
+Language: Python
 
 Libraries used:<br>
 	&ensp;&ensp;&ensp;pandas<br>
