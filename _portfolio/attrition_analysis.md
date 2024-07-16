@@ -9,19 +9,19 @@ collection: portfolio
 **Language:** Python
 
 **Libraires used:**<br>
-&ensp;&ensp;&ensp;Pandas
-&ensp;&ensp;&ensp;Numpy
-&ensp;&ensp;&ensp;Matplotlib
-&ensp;&ensp;&ensp;Seaborn
-&ensp;&ensp;&ensp;Sklearn
-&ensp;&ensp;&ensp;Pickle
+&ensp;&ensp;&ensp;Pandas<br>
+&ensp;&ensp;&ensp;Numpy<br>
+&ensp;&ensp;&ensp;Matplotlib<br>
+&ensp;&ensp;&ensp;Seaborn<br>
+&ensp;&ensp;&ensp;Sklearn<br>
+&ensp;&ensp;&ensp;Pickle<br>
 &ensp;&ensp;&ensp;xgboost
 
 **Project Description:**<br>
 The goal of this project is to identify work related variables that can be used to predict an employee’s attrition in hopes to create a healthy work environment to improve overall retention and lower the avoidable attrition rates of companies. The model used to analysis the variables leading to attrition is Tuned Random Forest. 
 
 **Files Needed:**<br>
-&ensp;&ensp;&ensp;HR.csv
+&ensp;&ensp;&ensp;HR.csv<br>
 &ensp;&ensp;&ensp;Predictive_Attrition_Analysis.ipynb
 
 **How to Run:**<br>
@@ -34,5 +34,5 @@ The project count had some outliers which seemed to contribute to employee attri
 
 These conclusions lead to the following recommendations. Monitoring and managing employee workloads and working hours to reduce burnout, especially employees with a higher project count. Those who do have higher project counts and higher working hours need to feel compensated for their efforts such as overtime payments or bonuses. Offering trainings and workshops for employees can also give them skills to improve their work habits with project workload efficiency resulting in higher satisfaction levels. 
 
-Forbes has looked in to attrition and found that even outside of an attrition crisis, research has shown that “culture comes first” and is a predictor or leading indicator of organization performance (Couch, n.d.). To further help employees meet a healthy work life balance and continue to have a good work culture flexible work hours and arrangements such as teleworking should be considered. This would allow employees to craft their own schedule within means, allowing employees the opportunity to balance life events and work. The last recommendation is to do a semi-annual check in using a survey with the same fields the predictive model used. This will allow tracking attrition and retention in the years to come and identifying what feature may need improving.
+Forbes has looked in to attrition and found that even outside of an attrition crisis, research has shown that “culture comes first” and is a predictor or leading indicator of organization performance. To further help employees meet a healthy work life balance and continue to have a good work culture flexible work hours and arrangements such as teleworking should be considered. This would allow employees to craft their own schedule within means, allowing employees the opportunity to balance life events and work. The last recommendation is to do a semi-annual check in using a survey with the same fields the predictive model used. This will allow tracking attrition and retention in the years to come and identifying what feature may need improving.
 
