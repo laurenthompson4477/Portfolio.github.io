@@ -14,9 +14,7 @@ After years of producing applications through software engineering, I noticed a 
 Skills and Expertise
 ------
 * Programming Languages: Python, SQL, R, Java
-
 * Technologies and Tools: Tableau, RStudio, Jupyter Labbench, Jupyter Notebook,   Pandas, NumPy, Seaborn, sklearn, matplotlib, plotly, and Git
-
 * Domain Knowledge: Business Intelligence
 
 Experience
