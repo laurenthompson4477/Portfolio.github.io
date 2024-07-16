@@ -11,54 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, Bellevue University, 2024
+* B.S. in Computer Science with Mathematics Minor, Hood College 2021
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* HR Data and Analysis (2022 - current)
+  *  Obtain and analyze data producing graphics fitting customer's request.
+  *  Analyze HR records of employee attrition and retention modeling future behavior.
+  *  Create calculations to measure departments overall performance.
+  *  Optimizing and maintaining previous data requests. 
+* Mobile Application Team (2022)
+  * Duties include: Full stack development and maintenance of mobile application tools   
+* Maryland Center of Computing Education Grant (MCCE Grant) (2019) 
+  * Hood College
+  * Duties included:
+    * Adept technical competency demonstrated in learning three different Robotic Operating Systems and Programming Interfaces.
+    * Team Skills utilized while assisting area Teachers in their exposure to and curriculum adaptation of robotics over the course of four workshops.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Securitas Critical Infrastructure Service (SCIS) (2018-2019)
+  * Duties included: surveillance and detection of potential threats
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
+Languages
+======
+* Python
+  * Pandas
+  * NumPy
+  * Plotly
+* SQL
+* Java
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Engineering
+* Reverse Engineering
+* Data Structure and Algorithms
+* Debugging
+* Problem Solving
+* Teamwork
+* Communication
+* Time Management
+* Collaboration
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
