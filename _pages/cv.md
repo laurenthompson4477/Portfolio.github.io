@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* HR Data and Analysis (2022 - current)<br>
+* HR Data and Evaluations (2022 - current)<br>
   * Duties include:<br>
   &ensp; Obtain and analyze data producing graphics fitting customer's request.<br>
   &ensp; Analyze HR records of employee attrition and retention modeling future behavior.<br>
