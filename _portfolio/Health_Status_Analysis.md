@@ -10,15 +10,15 @@ GitHub Link: [Health Status Analysis](https://github.com/laurenthompson4477/laur
 Language: R
 
 Libraries Used: <br>
-&ensp;ggplot2 <br>
-&ensp;dplyr
+&ensp;&ensp;&ensp;ggplot2 <br>
+&ensp;&ensp;&ensp;dplyr
 
 Project Description: <br>
 This project came about due to the increase of illness in the United states. Outbreaks of new viruses such as COVID-19 will never be predictable but common diseases that have an established history do have some predictability. This project’s goal is to explore the health status of the countries. This project will investigate the health status of countries in attempts to identify an individual’s likelihood of various health outcomes based on location, age, and gender. This study could be used to apply to statistics to an individual or a country at whole to help identify where more preventative care is needed.
 
 What files are needed:<br>
-	&ensp;HEALTH_STAT_29102023123216517.csv<br>
-	&ensp;Health_Status_Analysis.Rmd
+&ensp;&ensp;&ensp;HEALTH_STAT_29102023123216517.csv<br>
+&ensp;&ensp;&ensp;Health_Status_Analysis.Rmd
 
 How to install and Run the Project:<br>
 Download the files needed, see list above, and ensure they are saved in the same directory. Open RStudio and navigate to the directory where the files are stored to open the .Rmd file. Load the data into the environment. The only alternation to the code is the file path while the data is stored. To alter this open folder explorer locate the directory the .csv file is save and copy the filepath
