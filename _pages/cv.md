@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Motivated Data Scientists with a desire to seek a challenging work opportunity and environment to further skill set.  Hard worker who performs well within a team framework and capable of pursuing tasks individually with a defined set of requirements against minimal oversight. Short learning curve when introduced to new technical concepts and willingly accepts mentorship to grow capabilities and skills.
+
 Education
 ======
 * M.S. in Data Science, Bellevue University, 2024
